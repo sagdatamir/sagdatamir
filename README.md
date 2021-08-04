@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as an iOS Software Engineer at Kolesa Group.
+- 💬 Ask me about iOS development and anything else. I know quite a few things.
+
 <!--
 **sagdatamir/sagdatamir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
