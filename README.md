@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as an iOS Software Engineer at Kolesa Group.
+- 🔭 I’m currently working as an iOS Software Engineer at inDriver.
 - 💬 Ask me about iOS development and anything else. I know quite a few things.
 
 <!--
